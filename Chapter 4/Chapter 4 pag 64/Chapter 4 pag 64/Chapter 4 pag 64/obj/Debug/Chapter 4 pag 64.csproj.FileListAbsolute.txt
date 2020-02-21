@@ -1,0 +1,7 @@
+C:\Deidre\Module 3\Chapter 4\Chapter 4 pag 64\Chapter 4 pag 64\Chapter 4 pag 64\obj\Debug\Chapter 4 pag 64.csprojAssemblyReference.cache
+C:\Deidre\Module 3\Chapter 4\Chapter 4 pag 64\Chapter 4 pag 64\Chapter 4 pag 64\obj\Debug\Chapter 4 pag 64.csproj.CoreCompileInputs.cache
+C:\Deidre\Module 3\Chapter 4\Chapter 4 pag 64\Chapter 4 pag 64\Chapter 4 pag 64\bin\Debug\Chapter 4 pag 64.exe.config
+C:\Deidre\Module 3\Chapter 4\Chapter 4 pag 64\Chapter 4 pag 64\Chapter 4 pag 64\bin\Debug\Chapter 4 pag 64.exe
+C:\Deidre\Module 3\Chapter 4\Chapter 4 pag 64\Chapter 4 pag 64\Chapter 4 pag 64\bin\Debug\Chapter 4 pag 64.pdb
+C:\Deidre\Module 3\Chapter 4\Chapter 4 pag 64\Chapter 4 pag 64\Chapter 4 pag 64\obj\Debug\Chapter 4 pag 64.exe
+C:\Deidre\Module 3\Chapter 4\Chapter 4 pag 64\Chapter 4 pag 64\Chapter 4 pag 64\obj\Debug\Chapter 4 pag 64.pdb
